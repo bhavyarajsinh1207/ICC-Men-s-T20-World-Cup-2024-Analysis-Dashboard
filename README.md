@@ -1,3 +1,4 @@
+
 # ICC-Men-s-T20-World-Cup-2024-Analysis-Dashboard
 📌 Overview
 This repository contains an Excel-based analysis dashboard for the ICC Men's T20 World Cup 2024, providing insights into team performances, player statistics, match results, and key trends throughout the tournament.
@@ -11,5 +12,3 @@ This repository contains an Excel-based analysis dashboard for the ICC Men's T20
 📂 Files Included
 ICC Mens T20 Worldcup.csv – Raw dataset containing match details.
 Dashboard (Excel/PDF) – Pre-built dashboard visualizing key insights.
-📊 Dashboard Preview
-
